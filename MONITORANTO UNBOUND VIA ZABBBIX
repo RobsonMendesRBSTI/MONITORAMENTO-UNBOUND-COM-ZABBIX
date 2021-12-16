@@ -1,4 +1,4 @@
-MONITORANTO UNBOUND VIA ZABBBIX
+MONITORANDO UNBOUND VIA ZABBBIX
 
 - apt-get install sudo
 - visudo
@@ -38,5 +38,6 @@ Hostname= NOME_DO_SERVIDOR
 
 Associar o template ao host
 
+Temaplate Segue em Anexo aqui.
 Unbound_monitor.xml
 
